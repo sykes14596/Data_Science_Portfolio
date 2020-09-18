@@ -28,3 +28,11 @@ A wide range of models were implemented and the effect of scaling data was inves
 * Chose 2 different metrics for analysing model performance.
 * Scaling data seemed to affect model performance in varying ways depending on the model used.
 
+## [Project 4: Breast Cancer Prediction: Project Overview](https://github.com/sykes14596/Breast_Cancer_Prediciton)
+
+The goal of this project was to develop a model that would accurately predict the presence of breast cancer within a patient. On a personal development level, the aim of this project was to practice the skill known as feature selection, as well as continue to use and develop data analysis skills learned via completion of Jose Portilla's "Python for Data Science Bootcamp" course on Udemy.
+
+* Feature selection used by creating feature importance dataframes and creating models with different numbers of input features.
+* F1-score used to determine which number of features was optimal.
+* SMOTE technique implemented to produce balanced classes.
+* Random Forest and XGBoost Classifiers used to produce 99% accuracy on the test set.
