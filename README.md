@@ -6,6 +6,7 @@
 * Reduced multicolinearity issues by removing redundant variables.
 * Implemented a range of different models, including Logistic Regression and XGBoost classifiers.
 
+![](https://github.com/sykes14596/Data_Science_Portfolio/blob/master/Images/Correlation_Matrix.png "Correlation Matrix")
 
 ## [Project 2: Student Exam Scores: Project Overview](https://github.com/sykes14596/Student_Exam_Results)
 
@@ -15,6 +16,8 @@ For years, students have been using their predicted grades in an effort to monit
 * Identified possible outlying data points and investigated the potential reasons behind these points.
 * In the multiclass classification problem, SMOTE technique implmented to create perfectly balanced target classes.
 * Range of different model types implemented to gain programming experience using them.
+
+![](https://github.com/sykes14596/Data_Science_Portfolio/blob/master/Images/test_scores_pairplot.png "Test Scores Pairplot")
 
 ## [Project 3: Used Car Prices: Project Overview](https://github.com/sykes14596/Used_Car_Prices)
 
@@ -28,6 +31,8 @@ A wide range of models were implemented and the effect of scaling data was inves
 * Chose 2 different metrics for analysing model performance.
 * Scaling data seemed to affect model performance in varying ways depending on the model used.
 
+![](https://github.com/sykes14596/Data_Science_Portfolio/blob/master/Images/manufacturer_boxplot.png "Manufacturer Boxplot")
+
 ## [Project 4: Breast Cancer Prediction: Project Overview](https://github.com/sykes14596/Breast_Cancer_Prediciton)
 
 The goal of this project was to develop a model that would accurately predict the presence of breast cancer within a patient. On a personal development level, the aim of this project was to practice the skill known as feature selection, as well as continue to use and develop data analysis skills learned via completion of Jose Portilla's "Python for Data Science Bootcamp" course on Udemy.
@@ -36,3 +41,5 @@ The goal of this project was to develop a model that would accurately predict th
 * F1-score used to determine which number of features was optimal.
 * SMOTE technique implemented to produce balanced classes.
 * Random Forest and XGBoost Classifiers used to produce 99% accuracy on the test set.
+
+![](https://github.com/sykes14596/Data_Science_Portfolio/blob/master/Images/RFC_SMOTE_plot.png "RFC SMOTE Plot")
