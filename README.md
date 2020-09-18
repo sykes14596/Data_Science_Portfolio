@@ -26,7 +26,7 @@ The goal of this project was to be able to accurately predict the sale price of 
 A wide range of models were implemented and the effect of scaling data was investigated. The most accurate model, based on its Root Mean Squared Error (RMSE), was a Random Forest Regressor trained and tested on the scaled version of the dataset. The model achieved an R2 score of 96.4% and a RMSE of £1858.
 
 * Dealt with erroneous data points across each of the independent variables.
-* Appied a logarithmic transform of numerical features to reduce skewness.
+* Applied a logarithmic transform of numerical features to reduce skewness.
 * Range of model types built to practice producing the code required to implement them. 
 * Chose 2 different metrics for analysing model performance.
 * Scaling data seemed to affect model performance in varying ways depending on the model used.
