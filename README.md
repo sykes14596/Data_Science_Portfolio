@@ -6,7 +6,7 @@
 * Reduced multicolinearity issues by removing redundant variables.
 * Implemented a range of different models, including Logistic Regression and XGBoost classifiers.
 
-![](/Images/Correlation_Matrix.png "Correlation Matrix")
+![](/Images/Correlation_Matrix.png)
 
 ## [Project 2: Student Exam Scores: Project Overview](https://github.com/sykes14596/Student_Exam_Results)
 
@@ -17,7 +17,7 @@ For years, students have been using their predicted grades in an effort to monit
 * In the multiclass classification problem, SMOTE technique implmented to create perfectly balanced target classes.
 * Range of different model types implemented to gain programming experience using them.
 
-![](/Images/test_scores_pairplot.png "Test Scores Pairplot")
+![](/Images/test_scores_pairplot.png)
 
 ## [Project 3: Used Car Prices: Project Overview](https://github.com/sykes14596/Used_Car_Prices)
 
@@ -31,7 +31,7 @@ A wide range of models were implemented and the effect of scaling data was inves
 * Chose 2 different metrics for analysing model performance.
 * Scaling data seemed to affect model performance in varying ways depending on the model used.
 
-![](/Images/manufacturer_boxplot.png "Manufacturer Boxplot")
+![](/Images/manufacturer_boxplot.png)
 
 ## [Project 4: Breast Cancer Prediction: Project Overview](https://github.com/sykes14596/Breast_Cancer_Prediciton)
 
@@ -42,4 +42,4 @@ The goal of this project was to develop a model that would accurately predict th
 * SMOTE technique implemented to produce balanced classes.
 * Random Forest and XGBoost Classifiers used to produce 99% accuracy on the test set.
 
-![](/Images/RFC_SMOTE_plot.png "RFC SMOTE Plot")
+![](/Images/RFC_SMOTE_plot.png)
